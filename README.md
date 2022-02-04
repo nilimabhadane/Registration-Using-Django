@@ -1,1 +1,1 @@
-# Registration-Using-Django
+# REGISTRATION GUI USING HTML
